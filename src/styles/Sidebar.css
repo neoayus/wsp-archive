@@ -1,7 +1,7 @@
 nav.sidebar{
   width: 52px; 
   height: 100dvh;;
-  background-color: rgb(198, 183, 183);
+  background-color: rgb(69, 69, 69);
   
   display: flex; 
   flex-direction: column;;
@@ -27,6 +27,6 @@ div.sidebar-bottom{
 .icon{
   height: 12px; 
   width: 12px; 
-  background-color: rgb(139, 127, 127);
+  background-color: rgb(118, 118, 118);
 }
 
