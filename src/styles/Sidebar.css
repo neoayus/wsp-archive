@@ -22,11 +22,17 @@ div.sidebar-bottom{
   gap: 20px; 
 }
 
-
-
 .icon{
-  height: 12px; 
-  width: 12px; 
+  height: 32px; 
+  width: 32px; 
   background-color: rgb(118, 118, 118);
+}
+
+hr.divider{
+  height: .75px;  
+  width: 75%;
+  background-color: rgb(121, 121, 121); 
+  margin: 0 auto; 
+  border: 0 ; 
 }
 

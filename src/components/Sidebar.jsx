@@ -8,7 +8,7 @@ export default function Sidebar(){
         <div className='icon status'></div>
         <div className='icon channel'></div>
         <div className='icon communities'></div>
-        <hr />
+        <hr className='divider'/>
       </div>
 
       <div className='sidebar-bottom'>
