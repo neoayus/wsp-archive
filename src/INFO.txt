@@ -1,0 +1,3 @@
+- create backup first. 
+- main app runs on window. 
+- this app just reads json to create whatspp like view for your saved chats. 
