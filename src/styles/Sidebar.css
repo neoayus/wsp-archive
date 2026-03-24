@@ -22,12 +22,6 @@ div.sidebar-bottom{
   gap: 20px; 
 }
 
-.icon{
-  height: 32px; 
-  width: 32px; 
-  background-color: rgb(118, 118, 118);
-}
-
 hr.divider{
   height: .75px;  
   width: 75%;
