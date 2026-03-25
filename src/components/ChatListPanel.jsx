@@ -1,5 +1,7 @@
 import '../styles/ChatListPanel.css';
 
+import {Whatsapp} from './icons';
+
 export default function ChatListPanel(){
   return(
     <div className="chat-list-panel">
